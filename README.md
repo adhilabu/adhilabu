@@ -17,13 +17,8 @@ Experienced Software Engineer with a proven track record in developing large-sca
 
 ## 👯 I’m looking to collaborate on ...
 
-- Open source projects related to Django and FastAPI.
+- Open source projects related to Go, Rust, Django, and FastAPI.
 - Innovative projects in machine learning and data analysis.
-
-## 🤔 I’m looking for help with ...
-
-- Optimizing performance in large-scale Django applications.
-- Best practices for implementing event sourcing with Apache Pulsar.
 
 ## 💬 Ask me about ...
 
