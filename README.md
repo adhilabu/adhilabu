@@ -1,4 +1,4 @@
-# Adhil A Backer - Software Engineer
+# Adhil A Backer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adhilabacker-blue)](https://linkedin.com/in/adhilabacker/)
 [![GitHub](https://img.shields.io/badge/GitHub-adhilabu-lightgrey)](https://github.com/adhilabu)
