@@ -34,3 +34,6 @@ Experienced Software Engineer with a proven track record in developing large-sca
 ## 😄 Pronouns:
 
 - He/Him
+
+## 🛠️ Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhilabu&layout=donut-vertical)
