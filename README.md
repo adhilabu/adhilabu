@@ -291,8 +291,8 @@ CGPA: **8.14** (Honors) 🏆
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=adhilabu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilabu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=adhilabu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilabu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhilabu&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="500"/>
