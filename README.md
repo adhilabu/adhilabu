@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ADHIL%20A%20BACKER&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20System%20Optimizer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ADHIL%20A%20BACKER&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -214,7 +214,7 @@ Focus Areas:
 
 Stock filtering system identifying Indian stocks across different zones for enhanced investment decision-making.
 
-**[View Project →](https://github.com/adhilabu)**
+**[View Project →](https://github.com/adhilabu/stock-predictor)**
 
 </td>
 <td width="50%">
@@ -224,7 +224,7 @@ Stock filtering system identifying Indian stocks across different zones for enha
 
 High-throughput WebSocket service demonstrating real-time data streaming capabilities with Go.
 
-**[View Project →](https://github.com/adhilabu)**
+**[View Project →](https://github.com/adhilabu/go-websockets)**
 
 </td>
 </tr>
@@ -236,7 +236,7 @@ High-throughput WebSocket service demonstrating real-time data streaming capabil
 
 Multi-agent system using LangGraph and LLMs to plan, execute, review, and synthesize complex research queries.
 
-**[View Project →](https://github.com/adhilabu)**
+**[View Project →](https://github.com/adhilabu/multiagent)**
 
 </td>
 <td width="50%">
@@ -262,11 +262,12 @@ Currently working on exciting new projects in GenAI and distributed systems.
 
 | 🎓 Certificate | 🏢 Issuer | 🔗 Platform |
 |:--------------|:----------|:------------|
-| Introduction to AI | IBM | Coursera |
-| Generative AI: Introduction and Applications | IBM | Coursera |
-| Supervised Machine Learning: Regression & Classification | DeepLearning.AI | Coursera |
-| Advanced Learning Algorithms | DeepLearning.AI | Coursera |
-| Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI | Coursera |
+| Python - Programming for Everybody (Getting Started with Python) | University of Michigan | Coursera |
+| Introduction to AI | IBM | [Coursera](https://coursera.org/share/a0eaf7ebfd98570c3c8a444f95412621) |
+| Generative AI: Introduction and Applications | IBM | [Coursera](https://coursera.org/share/b6e5473f42fcdfadd0b46ef9c6189e7a) |
+| Supervised Machine Learning: Regression & Classification | DeepLearning.AI | [Coursera](https://coursera.org/share/4377d0cc5e0a41dfd54492377658654f) |
+| Advanced Learning Algorithms | DeepLearning.AI | [Coursera](https://coursera.org/share/a77a5d8cfbdc473546390909dfd03386) |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI | [Coursera](https://coursera.org/share/04c88335b0583bdf9d7d525887a09897) |
 
 </div>
 
@@ -286,30 +287,6 @@ CGPA: **8.14** (Honors) 🏆
 
 ---
 
-## 🏆 Leadership & Accomplishments
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Leadership))
-    Event Coordination
-      HESTIA 20 Tech Fest
-      Nutmeg Football Tournament
-    Sports Excellence
-      University Football
-        2x Runners-up
-        2018-19 Season
-        2019-20 Season
-    Team Building
-      Collaboration
-      Strategic Planning
-```
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -317,9 +294,12 @@ mindmap
 <img src="https://github-readme-stats.vercel.app/api?username=adhilabu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilabu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
+<!--
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhilabu&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="500"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhilabu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=00D9FF&point=C9D1D9" alt="Contribution Graph" width="100%"/>
+-->
 
 </div>
 
