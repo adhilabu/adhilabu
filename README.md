@@ -262,7 +262,7 @@ Currently working on exciting new projects in GenAI and distributed systems.
 
 | 🎓 Certificate | 🏢 Issuer | 🔗 Platform |
 |:--------------|:----------|:------------|
-| Python - Programming for Everybody (Getting Started with Python) | University of Michigan | Coursera |
+| Python - Programming for Everybody (Getting Started with Python) | University of Michigan | [Coursera](https://coursera.org/share/658dc4e4565dbcccb275b4000f6b496f) |
 | Introduction to AI | IBM | [Coursera](https://coursera.org/share/a0eaf7ebfd98570c3c8a444f95412621) |
 | Generative AI: Introduction and Applications | IBM | [Coursera](https://coursera.org/share/b6e5473f42fcdfadd0b46ef9c6189e7a) |
 | Supervised Machine Learning: Regression & Classification | DeepLearning.AI | [Coursera](https://coursera.org/share/4377d0cc5e0a41dfd54492377658654f) |
